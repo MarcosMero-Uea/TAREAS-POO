@@ -1,0 +1,8 @@
+[
+    {
+        "id_producto": "12345",
+        "nombre": "MANZANA",
+        "cantidad": 4,
+        "precio": 1.0
+    }
+]
